@@ -7,7 +7,7 @@ Vous pouvez consulter mon [portfolio](https://flaviengb.fr) pour découvrir mes 
 
 <p align="center">
   <a href="https://flaviengb.fr" alt="Accéder à mon portfolio">
-    <img src="https://i.postimg.cc/Kv0vDX5S/favicon3-removebg-preview.png" alt="Personal Logo" style="max-width:70px; width:10vw; height:auto;">
+    <img src="https://i.postimg.cc/Kv0vDX5S/favicon3-removebg-preview.png" alt="Personal Logo" style="max-width:70px; width:10vw; height:auto; max-height:70px">
   </a>
 </p>
 
